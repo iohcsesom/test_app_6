@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 Ruby on Rails Developer
+
+first test on github repo
